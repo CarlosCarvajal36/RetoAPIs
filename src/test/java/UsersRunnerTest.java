@@ -1,6 +1,6 @@
 import com.intuit.karate.junit5.Karate;
 
-class UsersRunner {
+class UsersRunnerTest {
 
     @Karate.Test
     Karate testUsers() {
