@@ -1,0 +1,18 @@
+{
+  "id": 999988,
+  "category": {
+    "id": 1,
+    "name": "perros"
+  },
+  "name": "Firulais",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "golden"
+    }
+  ],
+  "status": "available"
+}
